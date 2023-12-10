@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evdoxia !
+- 👋 Hi, I’m Evdoxia Tsangaris
 - 👀 I’m studying Electrical Engineering
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on eudoxia.tsangaris@gmail.com
